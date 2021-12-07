@@ -1,0 +1,25 @@
+Controller
+    start() - Begins wait for input loop
+    stop() - Quits applitation
+    loop() - Wait for input loop
+    delegate(input) - Delegate action to appropriate party based on input
+
+Commander
+    execute(command)
+
+Editor
+    edit(editorCommand)
+
+I/O
+    save(ioCommand)
+    open(ioCommand)
+
+GUI Bus
+    add(guiCommand)
+    getCommands()
+
+GUI Processor
+    update()
+
+GUI Renderer
+    draw()
