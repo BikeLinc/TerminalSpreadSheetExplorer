@@ -1,3 +1,13 @@
+/**
+ * File: Controller.cpp
+ * 
+ * Breif: Facilitates delegation of tasks based on
+ * program state.
+ * 
+ * Author: Lincoln Scheer
+ * Date: 12/7/21
+ */
+
 #include "Controller.h"
 
 void Controller::start() {
