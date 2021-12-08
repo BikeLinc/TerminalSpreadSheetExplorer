@@ -1,19 +1,19 @@
 start() 
-       \
-        loop() ----------------|
-       /                       |
+	   \
+		loop() ----------------|
+	   /                       |
  stop()                        V
-                         Input.getInput()
-                               |
-                               V
-                     | ---- delegate() ----|
-                     V         |           V
-         Editor.edit(command)  |    IO.execute(command)
-                               |
-                               V
-                          GUI.update()
-                               |
-                               V
-                           GUI.draw()
-                               |
-         ----------------------|
+						 Input.getInput()
+							   |
+							   V
+					 | ---- delegate() ----|
+					 V         |           V
+		 Editor.edit(command)  |    IO.execute(command)
+							   |
+							   V
+						  GUI.update()
+							   |
+							   V
+						   GUI.draw()
+							   |
+		 ----------------------|

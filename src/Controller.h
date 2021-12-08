@@ -8,8 +8,8 @@
  * Date: 12/7/21
  */
 
-#ifndef CONTROLLER
-#define CONTROLLER
+#ifndef _CONTROLLER_
+#define _CONTROLLER_
 
 #include "GUI.h"
 #include "Input.h"

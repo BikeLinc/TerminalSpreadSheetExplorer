@@ -8,8 +8,8 @@
  * Date: 12/7/21
  */
 
-#ifndef GUI
-#define GUI
+#ifndef _GUI_
+#define _GUI_
 
 #include "ncurses.h"
 

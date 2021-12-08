@@ -7,8 +7,8 @@
  * Date: 12/7/21
  */
 
-#ifndef INPUT
-#define INPUT
+#ifndef _INPUT_
+#define _INPUT_
 
 class Input {
 public:

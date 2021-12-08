@@ -7,13 +7,13 @@
  * Date: 12/7/21
  */
 
-#ifndef IO
-#define IO
+#ifndef _IO_
+#define _IO_
 
 class IO {
 public:
-    void open();
-    void write();
+	void open();
+	void write();
 private:
 };
 

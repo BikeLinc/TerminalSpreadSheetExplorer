@@ -1,3 +1,4 @@
+# Makefile for building TSSE
 CC=g++
 LIBS=-lncurses
 

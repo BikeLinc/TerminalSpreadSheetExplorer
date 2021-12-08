@@ -7,12 +7,12 @@
  * Date: 12/7/21
  */
 
-#ifndef EDITOR
-#define EDITOR
+#ifndef _EDITOR_
+#define _EDITOR_
 
 class Editor {
 public:
-    void edit();
+	void edit();
 private:
 };
 
